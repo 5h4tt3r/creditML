@@ -22,9 +22,9 @@ wheels/
 *.egg
 
 # Data files
-data/raw/*.csv
-data/raw/*.json
-data/raw/*.xlsx
+data/*.csv
+data/*.json
+data/*.xlsx
 data/processed/*.csv
 data/processed/*.json
 data/processed/*.parquet
