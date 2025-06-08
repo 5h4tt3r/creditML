@@ -99,3 +99,10 @@ Algorithmic Approaches
 Note:
 When fraud is rare, PR-AUC is often more meaningful than ROC-AUC, because PR-AUC focuses solely on performance for the positive (fraud) class.
 '''
+
+
+
+# %% UPLOADING THE CLEANED CSV
+clean_path = '../../notebooks/1)Processing+EDA/credit_card_transactions_clean.csv'
+df.to_csv(clean_path, index=False)
+print("Cleaned data saved to", clean_path)

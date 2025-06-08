@@ -25,9 +25,9 @@ wheels/
 data/*.csv
 data/*.json
 data/*.xlsx
-data/processed/*.csv
-data/processed/*.json
-data/processed/*.parquet
+data/1)Processing+EDA/*.csv
+data/1)Processing+EDA/*.json
+data/1)Processing+EDA/*.parquet
 *.pkl
 *.pickle
 
