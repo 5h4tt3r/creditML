@@ -5,7 +5,7 @@ Binary classification project for detecting fraudulent credit card transactions.
 
 ## Team Members
 - Gurick Kooner
-- Koari Kamata
+- Kaori Kamata
 - Gaunghan Tong
 
 ## Setup Instructions
