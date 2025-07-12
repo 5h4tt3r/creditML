@@ -29,6 +29,7 @@ data/1)Processing+EDA/*.csv
 data/1)Processing+EDA/*.json
 data/1)Processing+EDA/*.parquet
 notebooks/1)Processing+EDA/*.csv
+notebooks/2)Modelling/data_exports/*.csv
 
 *.pkl
 *.pickle
